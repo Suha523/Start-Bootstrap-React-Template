@@ -1,0 +1,44 @@
+.bg_footer{
+    background-color: rgb(44, 62, 80);
+}
+
+.font_25{
+    font-size: 25px;
+}
+
+.font_20{
+    font-size: 20px;
+}
+
+.w_65{
+    width: 65%;
+}
+
+.circle{
+    display: block;
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    color: white;
+    
+}
+
+.circle:hover{
+    background-color: white;   
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.circle:hover i{
+    color: black;
+    transition: 0.3s;
+}
+
+.link_color{
+    color: rgb(26, 188, 156);
+}
+
+.link_color:hover{
+    color: rgb(21, 152, 126);
+    transition: 0.3s;
+}

@@ -1,0 +1,16 @@
+.bg_navbar{
+    background-color: rgb(44, 62, 80);
+}
+
+.font_30{
+    font-size: 30px;
+}
+
+.hoverClassColor:hover {
+    color:var(--blue-green-color) !important;
+    transition: 0.3s;
+}
+
+.h_15{
+ height: 15%;
+}

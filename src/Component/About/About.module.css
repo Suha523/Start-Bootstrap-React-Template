@@ -1,0 +1,31 @@
+.bg_about{
+    background-color: rgb(26, 188, 156);
+}
+
+.divider_line{
+    display: inline-block;
+    height: 4px;
+    width: 100px;
+    border-radius: 90px;
+    background-color: white;
+}
+
+.font_30{
+    font-size: 30px;
+}
+
+.font_50{
+    font-size: 50px;
+}
+
+.font_20{
+    font-size: 20px;
+}
+
+.w_65{
+    width: 65%;
+}
+
+.border_2{
+   border: 2px solid white;
+}

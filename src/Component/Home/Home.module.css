@@ -1,0 +1,23 @@
+.bg_home{
+    background-color: rgb(26, 188, 156);
+}
+
+.font_60{
+    font-size: 60px;
+}
+
+.divider_line{
+    display: inline-block;
+    height: 4px;
+    width: 100px;
+    border-radius: 90px;
+    background-color: white;
+}
+
+.font_30{
+    font-size: 30px;
+}
+
+.font_25{
+    font-size: 25px;
+}
