@@ -2,7 +2,7 @@
   "name": "first-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{Suha523}.github.io",
+  "homepage": "https://Suha523.github.io/Start-Bootstrap-React-Template",
   "dependencies": {
     "@coreui/react": "^4.1.2",
     "@fortawesome/fontawesome-free": "^6.1.1",
