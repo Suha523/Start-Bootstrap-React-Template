@@ -7,8 +7,8 @@ export default class Navbar extends Component {
     return (
         <nav className={style.bg_navbar +' navbar fixed-top navbar-expand-lg'}>
         <a className="ml-5 navbar-brand text-uppercase font-weight-bold text-white" href="#"><p className={style.font_30}>start bootstrap</p></a>
-        <button className="navbar-toggler" type="button" data-toggle='collapse' data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span className="navbar-toggler-icon">Menu</span>
+        <button className={"rounded border-0 p-2 navbar-toggler"} type="button" data-toggle='collapse' data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+         <i className="fas fa-bars mr-2"></i>Menu
         </button>
       
         <div className="collapse navbar-collapse" id="navbarSupportedContent">

@@ -51,7 +51,7 @@ export default class Contact extends Component {
             <textarea className="form-control border-top-0 border-right-0 border-left-0 shadow-none rounded-0" placeholder='Message' rows="3" required></textarea>
             
           </div>
-          <button type="submit" class={style.bg_btn+ " rounded border-0 pt-2 pb-2 pr-4 pl-4 mb-2"}>Send</button>
+          <button type="submit" className={style.bg_btn+ " rounded border-0 pt-2 pb-2 pr-4 pl-4 mb-2"}>Send</button>
 </form>
 
 

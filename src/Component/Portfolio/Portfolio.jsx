@@ -34,7 +34,7 @@ export default class Portfolio extends Component {
               <div className="row">
                   {this.state.imgs.map((img,index)=>
                   
-                  <div id={index} className="col-lg-4 mb-5 ">
+                  <div key={index} className="col-lg-4 mb-5 ">
                          <img  className={style.round+' position-relative'} alt={img.name} src={img.src} height='100%' width='100%' />
                          <div className={style.round+' '+style.overlay+' '+style.w_92+' '+style.h_100 + " position-absolute"}>
                             <div className="d-flex h-100 justify-content-center align-items-center">
